@@ -7,13 +7,17 @@
      - Unidirectional data flow
      - MVVM with bindings
      - Coordinators
-   - Rx
+     - Rx
+     - DI
    - Complex UI
      - same data in different lists
      - different type of navigation for the same screen (pop + present)
-   - REST api
+     - transition animation
+     - on screen animations
+   - API
      - decodable JSONs
      - pagination
+     - oauth
    - Persist remote data
      - offline mode with restricted access
    - Theme Manager
@@ -21,9 +25,14 @@
      - support iOS 13 dark + custom themes
 2. Libs
    - RxSwift
+   - Swinject
    - Moya
    - Realm
    - Swiftgen
+   - Lottie
+   - Hero
+   - OAuthSwift
+   - Texture (?)
 
 3. Other requirenments
    - swift
